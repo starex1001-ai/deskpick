@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "name": "데스크픽",
+  "brand": "DESK PICK",
+  "mark": "DP",
+  "worker": "deskpick",
+  "url": "https://deskpick.webnote-lab.workers.dev",
+  "description": "모니터, 키보드, 마우스와 주변기기의 선택 및 설정을 정리합니다.",
+  "tagline": "책상 위 기기를 더 편하게",
+  "categories": [
+    {
+      "slug": "monitor",
+      "name": "모니터",
+      "description": "모니터 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "monitor-buying",
+      "name": "모니터 구매",
+      "description": "모니터 구매 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "keyboard",
+      "name": "키보드",
+      "description": "키보드 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "keyboard-buying",
+      "name": "키보드 구매",
+      "description": "키보드 구매 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "mouse",
+      "name": "마우스",
+      "description": "마우스 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "monitor-settings",
+      "name": "모니터 설정",
+      "description": "모니터 설정 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "usb-hub",
+      "name": "USB 허브",
+      "description": "USB 허브 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "webcam-microphone",
+      "name": "웹캠·마이크",
+      "description": "웹캠·마이크 관련 확인 방법과 가이드"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/deskpick/issues"
+}
