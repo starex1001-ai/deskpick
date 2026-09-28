@@ -130,5 +130,27 @@
       "블루투스 마우스",
       "마우스 연결 오류"
     ]
+  },
+  {
+    "id": "sheet-mouse-unwanted-double-click",
+    "slug": "mouse-unwanted-double-click",
+    "category": "mouse",
+    "status": "published",
+    "title": "마우스 더블클릭이 저절로 될 때 고장 여부 확인하는 방법",
+    "description": "마우스를 한 번 눌렀는데 파일이나 폴더가 두 번 열리거나 클릭이 반복된다면 바로 마우스를 교체하기보다 Windows 더블클릭 속도, 특정 버튼 여부, 다른 PC 테스트, 제조사 소프트웨어, 버튼 스위치 상태 를 확인하는 것이 좋습니다. 설정 문제인지 실제 스위치 고장인지 구분하면 불필요",
+    "date": "2026-09-29",
+    "updated": "2026-09-29",
+    "minutes": 5,
+    "label": "가이드",
+    "intro": "",
+    "sections": [],
+    "body_html": "<p>마우스를 한 번 눌렀는데 파일이나 폴더가 두 번 열리거나 클릭이 반복된다면 바로 마우스를 교체하기보다 <strong>Windows 더블클릭 속도, 특정 버튼 여부, 다른 PC 테스트, 제조사 소프트웨어, 버튼 스위치 상태</strong>를 확인하는 것이 좋습니다. 설정 문제인지 실제 스위치 고장인지 구분하면 불필요한 교체를 줄일 수 있습니다.</p>\n<div style=\"text-align:center; margin:28px 0;\">\n    <img\n        src=\"https://images.pexels.com/photos/19304049/pexels-photo-19304049.jpeg\"\n        alt=\"마우스 더블클릭이 저절로 될 때 고장 여부 확인하는 방법 관련 이미지 1\"\n        style=\"max-width:100%; height:auto;\"\n        loading=\"lazy\"\n    />\n</div>\n<figure style=\"margin:24px 0;\"><img src=\"https://images.pexels.com/photos/7184218/pexels-photo-7184218.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1600\" alt=\"무선 마우스\" loading=\"lazy\" decoding=\"async\" style=\"display:block;max-width:100%;height:auto;margin:0 auto;\"><figcaption style=\"font-size:0.85em;color:#666;text-align:center;\">주제 관련 참고 이미지 · <a href=\"https://www.pexels.com/photo/7184218/\" target=\"_blank\" rel=\"noopener noreferrer\">Pexels</a></figcaption></figure><h2>1. 어떤 버튼에서 문제가 생기는지 확인</h2><p>왼쪽 버튼만 두 번 입력되는지 오른쪽 버튼이나 측면 버튼에서도 비슷한 증상이 있는지 확인하세요. 메모장이나 클릭 테스트 화면을 이용해 일정하게 한 번씩 눌러보고 의도하지 않은 추가 클릭이 발생하는지 살펴봅니다. 특정 버튼 하나에서만 반복된다면 해당 스위치 문제 가능성이 높아집니다.</p><table><thead><tr><th>증상</th><th>확인할 것</th><th>가능한 원인</th></tr></thead><tbody><tr><td>한 번 눌러 두 번 실행</td><td>클릭 테스트</td><td>스위치 채터링</td></tr><tr><td>폴더에서만 이상</td><td>Windows 클릭 설정</td><td>탐색기 설정</td></tr><tr><td>한 PC에서만 발생</td><td>다른 PC 테스트</td><td>소프트웨어 문제</td></tr><tr><td>여러 PC에서 동일</td><td>마우스 자체</td><td>하드웨어 문제 가능성</td></tr></tbody></table><h2>2. Windows 더블클릭 속도 확인</h2><p>Windows 마우스 설정에는 더블클릭 속도를 조절하는 항목이 있습니다. 설정이 사용 습관과 맞지 않으면 클릭 동작이 예상과 다르게 느껴질 수 있습니다. 테스트 영역에서 현재 설정을 확인하고 너무 극단적인 값으로 되어 있다면 기본적인 범위로 조절해보세요. 다만 한 번 짧게 눌렀는데 실제 입력이 두 번 발생한다면 단순 더블클릭 속도 설정과는 다른 문제일 수 있습니다.</p><h2>3. 파일 탐색기에서 한 번 클릭 실행 설정 확인</h2><p>Windows 파일 탐색기는 설정에 따라 항목을 한 번 클릭해 열도록 구성할 수 있습니다. 파일이나 폴더가 너무 쉽게 열린다는 이유만으로 마우스 더블클릭 고장이라고 판단하지 말고 탐색기 옵션에서 클릭 방식이 어떻게 설정되어 있는지 확인하세요.</p><h2>4. 다른 USB 포트와 다른 PC에서 테스트</h2><p>유선 또는 리시버 방식 마우스라면 다른 USB 포트로 바꾸고, 가능하면 다른 PC에서도 같은 증상이 나타나는지 확인하세요. 다른 PC에서도 특정 버튼이 계속 두 번 입력된다면 마우스 하드웨어 문제 가능성이 높아집니다. 반대로 원래 PC에서만 발생한다면 Windows 설정이나 제조사 프로그램을 확인하세요.</p>\n<div style=\"text-align:center; margin:28px 0;\">\n    <img\n        src=\"https://images.pexels.com/photos/4792728/pexels-photo-4792728.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1600\"\n        alt=\"마우스 더블클릭이 저절로 될 때 고장 여부 확인하는 방법 관련 이미지 2\"\n        style=\"max-width:100%; height:auto;\"\n        loading=\"lazy\"\n    />\n</div>\n<h2>5. 제조사 매크로와 버튼 설정 확인</h2><p>게이밍 마우스는 전용 프로그램에서 클릭 반복이나 매크로를 설정할 수 있습니다. 특정 프로필에서 버튼에 연속 클릭 기능이 지정되지 않았는지 확인하세요. 제조사 프로그램을 종료하거나 기본 프로필로 변경한 뒤 증상이 달라지는지 비교하면 원인 구분에 도움이 됩니다.</p><h2>6. 버튼 틈의 먼지와 오염 확인</h2><p>오래 사용한 마우스는 버튼 주변에 먼지나 이물질이 쌓일 수 있습니다. 전원을 분리한 상태에서 외부를 부드럽게 청소하되 액체나 접점 세정제를 임의로 내부에 넣는 것은 피하세요. 제품을 분해하면 보증이 제한될 수 있으므로 보증기간이 남았다면 제조사 지원을 먼저 확인하는 것이 좋습니다.</p><h2>7. 여러 PC에서 반복되면 스위치 문제 가능성 확인</h2><p>설정과 소프트웨어를 확인하고 다른 PC에서도 동일한 버튼이 반복적으로 더블클릭된다면 내부 스위치의 채터링 가능성을 볼 수 있습니다. 핫스왑 방식이 아닌 일반 마우스는 스위치 교체에 납땜이 필요한 경우가 있으므로 사용자가 직접 수리하기보다 보증 서비스나 전문 수리를 고려하는 것이 안전합니다.</p><p>무선 마우스에서 클릭뿐 아니라 커서까지 끊긴다면 내부링크로 <strong>‘무선 마우스가 자꾸 끊길 때 배터리 교체 후에도 확인할 것’</strong>을 연결하기 좋습니다.</p>\n<div style=\"text-align:center; margin:28px 0;\">\n    <img\n        src=\"https://images.pexels.com/photos/7054723/pexels-photo-7054723.jpeg\"\n        alt=\"마우스 더블클릭이 저절로 될 때 고장 여부 확인하는 방법 관련 이미지 3\"\n        style=\"max-width:100%; height:auto;\"\n        loading=\"lazy\"\n    />\n</div>\n<h3>더블클릭 오류 체크리스트</h3><ul><li>1. 특정 버튼에서만 발생하는지 확인한다.</li><li>2. Windows 더블클릭 속도를 점검한다.</li><li>3. 파일 탐색기의 클릭 방식을 확인한다.</li><li>4. 다른 USB 포트에서 테스트한다.</li><li>5. 다른 PC에서도 동일한지 확인한다.</li><li>6. 매크로와 버튼 설정을 확인한다.</li><li>7. 외부 오염을 청소한다.</li></ul><h2>FAQ</h2><h3>더블클릭 테스트 사이트에서 두 번 입력되면 고장인가요?</h3><p>한 번 눌렀는데 반복적으로 두 번 입력되고 다른 PC에서도 동일하다면 스위치 문제 가능성이 높습니다. 한 번의 테스트만으로 판단하지 말고 여러 차례 확인하세요.</p><h3>Windows 더블클릭 속도를 바꾸면 해결되나요?</h3><p>클릭 간격 인식 문제라면 도움이 될 수 있지만 한 번의 물리적 클릭이 실제 두 번 입력되는 스위치 문제라면 해결되지 않을 수 있습니다.</p><h3>마우스를 분해해서 스위치를 바꿔도 되나요?</h3><p>제품 구조에 따라 납땜이 필요하고 보증에 영향을 줄 수 있습니다. 보증기간과 제조사 수리 정책을 먼저 확인하는 것이 좋습니다.</p>\n<div style=\"text-align:center; margin:28px 0;\">\n    <img\n        src=\"https://images.pexels.com/photos/4195408/pexels-photo-4195408.jpeg\"\n        alt=\"마우스 더블클릭이 저절로 될 때 고장 여부 확인하는 방법 관련 이미지 4\"\n        style=\"max-width:100%; height:auto;\"\n        loading=\"lazy\"\n    />\n</div>\n<h2>마지막 핵심 정리</h2><p>마우스 더블클릭 오류는 <strong>문제 버튼 확인 → Windows 설정 → 탐색기 설정 → 다른 포트 → 다른 PC → 제조사 프로그램 → 스위치 상태</strong> 순으로 점검하세요. 여러 PC에서 같은 버튼이 반복적으로 두 번 입력된다면 하드웨어 문제를 의심할 근거가 커집니다.</p>",
+    "tags": [
+      "마우스 더블클릭 오류",
+      "마우스 스위치",
+      "클릭 테스트",
+      "더블클릭 속도",
+      "마우스 고장"
+    ]
   }
 ]
