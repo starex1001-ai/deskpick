@@ -196,5 +196,27 @@
       "주변기기 연결",
       "USB 허브"
     ]
+  },
+  {
+    "id": "sheet-pc-microphone-not-detected",
+    "slug": "pc-microphone-not-detected",
+    "category": "webcam-microphone",
+    "status": "published",
+    "title": "화상회의에서 마이크가 안 잡힐 때 윈도우와 앱에서 확인할 것",
+    "description": "Zoom이나 Teams 같은 화상회의에서 마이크가 잡히지 않는다면 마이크 고장부터 의심하기보다 Windows 입력 장치, 앱별 마이크 권한, 화상회의 앱의 오디오 설정, 음소거 상태, Bluetooth 연결, USB 포트와 드라이버 를 먼저 확인하는 것이 좋습니다. Windows에서는 ",
+    "date": "2026-09-30",
+    "updated": "2026-09-30",
+    "minutes": 6,
+    "label": "가이드",
+    "intro": "",
+    "sections": [],
+    "body_html": "<p>Zoom이나 Teams 같은 화상회의에서 마이크가 잡히지 않는다면 마이크 고장부터 의심하기보다 <strong>Windows 입력 장치, 앱별 마이크 권한, 화상회의 앱의 오디오 설정, 음소거 상태, Bluetooth 연결, USB 포트와 드라이버</strong>를 먼저 확인하는 것이 좋습니다. Windows에서는 마이크가 정상인데 특정 앱에서만 안 되는 경우라면 앱 내부 입력 장치가 잘못 선택됐을 가능성이 큽니다.</p>\n<div style=\"text-align:center; margin:28px 0;\">\n    <img\n        src=\"https://images.pexels.com/photos/20501862/pexels-photo-20501862.jpeg\"\n        alt=\"화상회의에서 마이크가 안 잡힐 때 윈도우와 앱에서 확인할 것 관련 이미지 1\"\n        style=\"max-width:100%; height:auto;\"\n        loading=\"lazy\"\n    />\n</div>\n<figure style=\"margin:24px 0;\"><img src=\"https://images.pexels.com/photos/8774466/pexels-photo-8774466.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1600\" alt=\"노트북과 헤드폰\" loading=\"lazy\" decoding=\"async\" style=\"display:block;max-width:100%;height:auto;margin:0 auto;\"><figcaption style=\"font-size:0.85em;color:#666;text-align:center;\">주제 관련 참고 이미지 · <a href=\"https://www.pexels.com/photo/8774466/\" target=\"_blank\" rel=\"noopener noreferrer\">Pexels</a></figcaption></figure><h2>1. Windows에서 기본 입력 장치 확인</h2><p>설정의 소리 메뉴에서 입력 장치를 확인하고 현재 사용하려는 마이크가 선택돼 있는지 확인하세요. 노트북 내장 마이크, 웹캠 마이크, Bluetooth 이어폰, USB 마이크를 함께 사용하는 경우 다른 장치가 기본값으로 선택될 수 있습니다. 입력 음량 표시가 말할 때 반응하는지도 확인합니다.</p><table><thead><tr><th>증상</th><th>먼저 확인</th><th>가능한 원인</th></tr></thead><tbody><tr><td>Windows에서도 입력 없음</td><td>입력 장치·권한</td><td>드라이버·연결 문제</td></tr><tr><td>Windows는 정상, Zoom만 안됨</td><td>앱 오디오 설정</td><td>다른 마이크 선택</td></tr><tr><td>이어폰 연결 후 안됨</td><td>Bluetooth 입력</td><td>오디오 장치 변경</td></tr><tr><td>USB 마이크만 안됨</td><td>포트·케이블</td><td>USB 인식 문제</td></tr></tbody></table><h2>2. Windows 마이크 권한 확인</h2><p>마이크가 장치 목록에 보이더라도 개인정보 설정에서 앱의 마이크 접근 권한이 꺼져 있으면 화상회의 앱이 사용할 수 없습니다. Windows 설정에서 마이크 접근이 허용돼 있는지 확인하고 데스크톱 앱의 마이크 접근도 필요한 경우 활성화되어 있는지 살펴보세요.</p><h2>3. 화상회의 앱 안에서 입력 장치를 다시 선택</h2><p>Zoom, Teams, Meet 등은 Windows 기본 장치와 별도로 사용할 마이크를 지정할 수 있습니다. 회의 앱의 오디오 설정에서 현재 선택된 입력 장치가 실제 사용할 마이크와 일치하는지 확인하세요. 테스트 기능이 있다면 회의에 들어가기 전에 마이크 입력이 잡히는지 확인하는 것이 좋습니다.</p><h2>4. 물리적 음소거 버튼 확인</h2><p>헤드셋이나 USB 마이크, 노트북에는 물리적인 음소거 버튼이 있는 경우가 있습니다. 앱에서는 음소거가 해제돼 있어도 장치 자체에서 마이크가 차단돼 있을 수 있습니다. 키보드의 마이크 음소거 기능과 헤드셋 리모컨도 함께 확인하세요.</p>\n<div style=\"text-align:center; margin:28px 0;\">\n    <img\n        src=\"https://images.pexels.com/photos/7742582/pexels-photo-7742582.jpeg\"\n        alt=\"화상회의에서 마이크가 안 잡힐 때 윈도우와 앱에서 확인할 것 관련 이미지 2\"\n        style=\"max-width:100%; height:auto;\"\n        loading=\"lazy\"\n    />\n</div>\n<h2>5. Bluetooth 이어폰 사용 시 입력 장치 확인</h2><p>Bluetooth 이어폰을 연결하면 출력은 이어폰으로 바뀌었지만 입력은 노트북 내장 마이크로 남거나 반대로 설정될 수 있습니다. Windows와 회의 앱에서 입력·출력 장치를 각각 확인하세요. 연결이 불안정하다면 Bluetooth 장치를 제거한 뒤 다시 페어링해보는 것도 방법입니다.</p><h2>6. USB 마이크는 다른 포트에서 테스트</h2><p>USB 마이크나 웹캠 마이크를 사용하는 경우 USB 허브를 제거하고 PC에 직접 연결해보세요. 다른 포트에서도 동일한지 확인하고 장치 관리자에서 오류 표시가 있는지도 살펴봅니다. USB 자체가 인식되지 않는다면 마이크 앱 설정보다 연결 문제부터 해결해야 합니다.</p><h2>7. 다른 앱에서 녹음해보기</h2><p>Windows 녹음 기능이나 다른 음성 앱에서 마이크가 정상적으로 입력되는지 테스트하세요. 다른 앱에서는 정상인데 특정 화상회의 앱에서만 안 된다면 해당 앱 설정이나 권한 문제로 범위를 좁힐 수 있습니다. 모든 앱에서 입력이 없다면 Windows 장치 설정과 드라이버를 확인합니다.</p><h2>8. 드라이버와 앱 업데이트 확인</h2><p>최근 Windows 업데이트 이후 문제가 시작됐거나 새 웹캠·USB 마이크를 연결했다면 제조사 드라이버와 펌웨어를 확인하세요. 화상회의 앱도 최신 버전으로 업데이트하고 PC를 재부팅한 뒤 다시 테스트하는 것이 좋습니다.</p><p>Bluetooth 헤드셋 연결 자체가 불안정하다면 내부링크로 <strong>‘블루투스 기기가 연결은 되는데 작동하지 않을 때 해결 순서’</strong>를 연결하기 좋습니다.</p>\n<div style=\"text-align:center; margin:28px 0;\">\n    <img\n        src=\"https://images.pexels.com/photos/9128854/pexels-photo-9128854.jpeg\"\n        alt=\"화상회의에서 마이크가 안 잡힐 때 윈도우와 앱에서 확인할 것 관련 이미지 3\"\n        style=\"max-width:100%; height:auto;\"\n        loading=\"lazy\"\n    />\n</div>\n<h3>마이크 인식 체크리스트</h3><ul><li>1. Windows 기본 입력 장치를 확인한다.</li><li>2. 마이크 접근 권한을 확인한다.</li><li>3. 회의 앱에서 입력 장치를 다시 선택한다.</li><li>4. 물리적 음소거 버튼을 확인한다.</li><li>5. Bluetooth 입력·출력을 각각 확인한다.</li><li>6. USB 장치는 PC에 직접 연결한다.</li><li>7. 다른 녹음 앱에서 테스트한다.</li><li>8. 드라이버와 회의 앱을 업데이트한다.</li></ul><h2>FAQ</h2><h3>Zoom에서는 안 되는데 Windows 녹음은 됩니다.</h3><p>마이크 하드웨어보다 Zoom 내부에서 다른 입력 장치가 선택됐거나 앱 권한이 제한된 경우를 먼저 확인하세요.</p><h3>Bluetooth 이어폰을 연결하면 마이크가 바뀌나요?</h3><p>기기에 따라 Bluetooth 이어폰의 마이크가 입력 장치로 선택될 수 있습니다. Windows와 회의 앱에서 입력 장치를 각각 확인하세요.</p><h3>마이크 권한을 켰는데도 안 됩니다.</h3><p>앱 내부 입력 장치, 물리적 음소거, USB 연결, 드라이버 순으로 추가 점검하세요.</p>\n<div style=\"text-align:center; margin:28px 0;\">\n    <img\n        src=\"https://images.pexels.com/photos/30879395/pexels-photo-30879395.jpeg\"\n        alt=\"화상회의에서 마이크가 안 잡힐 때 윈도우와 앱에서 확인할 것 관련 이미지 4\"\n        style=\"max-width:100%; height:auto;\"\n        loading=\"lazy\"\n    />\n</div>\n<h2>마지막 핵심 정리</h2><p>화상회의에서 마이크가 안 잡힌다면 <strong>Windows 입력 장치 → 마이크 권한 → 앱 오디오 설정 → 음소거 → Bluetooth → USB 연결 → 다른 앱 테스트 → 드라이버</strong> 순으로 확인하세요. Windows 버전과 회의 앱 업데이트에 따라 메뉴 위치가 달라질 수 있으므로 Microsoft와 해당 앱의 공식 지원에서 최신 경로를 확인하는 것이 좋습니다.</p>",
+    "tags": [
+      "PC 마이크 인식 안됨",
+      "마이크 권한",
+      "입력장치 설정",
+      "화상회의 오디오",
+      "마이크 설정"
+    ]
   }
 ]
